@@ -92794,8 +92794,8 @@ A.aa0.prototype={
 $0(){$.ic().eL("open",[u.p])},
 $S:0}
 A.NO.prototype={
-R(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0="Oct 2025 - Present",a1="Apr 2025 - Oct 2025",a2="Jul 2022 - Nov 2023",a3="Feb 2021 - Jul 2022",a4=A.Dp(a6,!1,t.gQ),a5=A.ai(a6).ok
-a4=a4.as
+R(a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0="Oct 2025 - Present",a1="Apr 2025 - Oct 2025",a2="Nov 2023 - Mar 2025",a3="Jul 2022 - Nov 2023",a4="Feb 2021 - Jul 2022",a5=A.Dp(a7,!1,t.gQ),a6=A.ai(a7).ok
+a5=a5.as
 s=$.be().d
 s===$&&A.a()
 s=s.a.a
@@ -92803,12 +92803,12 @@ r=s>=1200
 s=r?s*0.2:24
 q=r?80:36
 p=r?80:60
-if(r){r=a5.b
-r=r==null?a:r.b1(B.e)}else{r=a5.e
+if(r){r=a6.b
+r=r==null?a:r.b1(B.e)}else{r=a6.e
 r=r==null?a:r.b1(B.e)}o=$.be().d
 o===$&&A.a()
-if(o.a.a>=1200){o=a5.b
-o=o==null?a:o.c9(B.e,B.C)}else{o=a5.e
+if(o.a.a>=1200){o=a6.b
+o=o==null?a:o.c9(B.e,B.C)}else{o=a6.e
 o=o==null?a:o.c9(B.e,B.C)}r=A.jd(a,a,a,B.aX,a,a,!0,a,A.bF(A.b([A.bF(a,a,o,"Experiences")],t.VO),a,r,"My "),B.ag,a,a,B.al,B.ai)
 o=A.zX(B.dW,1)
 n=A.f2(12)
@@ -92818,27 +92818,27 @@ m=m.a.a>=1200
 l=m?28:16
 k=m?32:20
 j=A.aFz(A.f2(8),A.afo("assets/logos/uasaero_logo.jpg",B.ab,a,32,32))
-if(m){m=a5.e
-m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a5.w
-m=m==null?a:m.c9(B.e,B.C)}else{m=a5.z
+if(m){m=a6.e
+m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a6.w
+m=m==null?a:m.c9(B.e,B.C)}else{m=a6.z
 m=m==null?a:m.c9(B.e,B.C)}m=A.bn("UAS International Trip Support",a,a,a,m,a,a)
 i=$.be().d
 i===$&&A.a()
-h=a5.Q
+h=a6.Q
 g=h==null
 f=t.p
 k=A.jQ(A.dc(A.b([j,A.jQ(A.cq(A.b([m,A.nt(A.bn(a0,a,a,a,g?a:h.b1(B.e),a,a),!1,!1,!1,i.a.a<600)],f),B.ay,a,B.B,B.v,0),1)],f),B.A,a,B.B,B.v,k),1)
 i=$.be().d
 i===$&&A.a()
 i=i.a.a
-if(i>=1200){m=a5.r
-m=m==null?a:m.b1(B.e)}else{m=a5.y
+if(i>=1200){m=a6.r
+m=m==null?a:m.b1(B.e)}else{m=a6.y
 m=m==null?a:m.b1(B.e)}i=A.dc(A.b([k,A.nt(A.bn(a0,a,a,a,m,a,a),!1,!1,!1,!(i<600))],f),B.A,a,B.cx,B.v,0)
 m=$.be().d
 m===$&&A.a()
-if(m.a.a>=1200){m=a5.w
-m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a5.z
-m=m==null?a:m.b1(B.e)}else{m=a5.at
+if(m.a.a>=1200){m=a6.w
+m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a6.z
+m=m==null?a:m.b1(B.e)}else{m=a6.at
 m=m==null?a:m.b1(B.e)}n=A.h2(a,A.cq(A.b([i,A.bn("At UAS International Trip Support, a leading aviation-based organization, I lead the mobile development team in engineering modern trip management solutions. I played a crucial role in architecting and launching the application within a strict timeline, coordinating closely with QA for rigorous testing. I actively leverage advanced AI tools like GitHub Copilot and Antigravity to accelerate development and tackle complex tasks efficiently. Beyond the initial launch, my contributions extend to designing future modules, rolling out major functional updates, and refining the codebase to be more expressive, scalable, and comprehensible for the entire engineering team.",a,a,a,m,a,a)],f),B.A,a,B.B,B.v,l),B.G,a,a,new A.ei(a,a,o,n,a,a,B.b9),a,a,a,a,B.fg,a,a,a)
 o=A.zX(B.dW,1)
 l=A.f2(12)
@@ -92848,9 +92848,9 @@ m=m.a.a>=1200
 k=m?28:16
 j=m?32:20
 i=A.aFz(A.f2(8),A.afo("assets/logos/snapwork_technologies_logo.jpg",B.ab,a,32,32))
-if(m){m=a5.e
-m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a5.w
-m=m==null?a:m.c9(B.e,B.C)}else{m=a5.z
+if(m){m=a6.e
+m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a6.w
+m=m==null?a:m.c9(B.e,B.C)}else{m=a6.z
 m=m==null?a:m.c9(B.e,B.C)}m=A.bn("SnapWork Technologies",a,a,a,m,a,a)
 e=$.be().d
 e===$&&A.a()
@@ -92858,14 +92858,14 @@ m=A.jQ(A.dc(A.b([i,A.jQ(A.cq(A.b([m,A.nt(A.bn(a1,a,a,a,g?a:h.b1(B.e),a,a),!1,!1,
 j=$.be().d
 j===$&&A.a()
 j=j.a.a
-if(j>=1200){i=a5.r
-i=i==null?a:i.b1(B.e)}else{i=a5.y
+if(j>=1200){i=a6.r
+i=i==null?a:i.b1(B.e)}else{i=a6.y
 i=i==null?a:i.b1(B.e)}j=A.dc(A.b([m,A.nt(A.bn(a1,a,a,a,i,a,a),!1,!1,!1,!(j<600))],f),B.A,a,B.cx,B.v,0)
 m=$.be().d
 m===$&&A.a()
-if(m.a.a>=1200){m=a5.w
-m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a5.z
-m=m==null?a:m.b1(B.e)}else{m=a5.at
+if(m.a.a>=1200){m=a6.w
+m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a6.z
+m=m==null?a:m.b1(B.e)}else{m=a6.at
 m=m==null?a:m.b1(B.e)}l=A.h2(a,A.cq(A.b([j,A.bn("During my contract-based engagement with SnapWork Technologies, I led a specialized team to develop and deliver 'Thrive,' a comprehensive web application for Axis Bank. I played a major role in adopting FlutterFlow for rapid, high-quality development, significantly accelerating the project timeline. My responsibilities spanned across the entire software development lifecycle, including leading architectural decisions, handling seamless deployments, and conducting rigorous code reviews. Furthermore, I contributed heavily to the UI/UX design process, offering crucial suggestions that shaped a highly intuitive and visually appealing user experience, ultimately delivering a robust and scalable banking solution.",a,a,a,m,a,a)],f),B.A,a,B.B,B.v,k),B.G,a,a,new A.ei(a,a,o,l,a,a,B.b9),a,a,a,a,B.fg,a,a,a)
 o=A.zX(B.dW,1)
 k=A.f2(12)
@@ -92875,24 +92875,24 @@ m=m.a.a>=1200
 j=m?28:16
 i=m?32:20
 e=A.xp("assets/logos/techblue.svg",a,32,a)
-if(m){m=a5.e
-m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a5.w
-m=m==null?a:m.c9(B.e,B.C)}else{m=a5.z
+if(m){m=a6.e
+m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a6.w
+m=m==null?a:m.c9(B.e,B.C)}else{m=a6.z
 m=m==null?a:m.c9(B.e,B.C)}m=A.bn("Techblue Software Private Limited",a,a,a,m,a,a)
 d=$.be().d
 d===$&&A.a()
-m=A.jQ(A.dc(A.b([e,A.cq(A.b([m,A.nt(A.bn("Nov 2023 - Present",a,a,a,g?a:h.b1(B.e),a,a),!1,!1,!1,d.a.a<600)],f),B.ay,a,B.B,B.v,0)],f),B.A,a,B.B,B.v,i),1)
+m=A.jQ(A.dc(A.b([e,A.cq(A.b([m,A.nt(A.bn(a2,a,a,a,g?a:h.b1(B.e),a,a),!1,!1,!1,d.a.a<600)],f),B.ay,a,B.B,B.v,0)],f),B.A,a,B.B,B.v,i),1)
 i=$.be().d
 i===$&&A.a()
 i=i.a.a
-if(i>=1200){e=a5.r
-e=e==null?a:e.b1(B.e)}else{e=a5.y
-e=e==null?a:e.b1(B.e)}i=A.dc(A.b([m,A.nt(A.bn("Nov 2023 - Mar 2025",a,a,a,e,a,a),!1,!1,!1,!(i<600))],f),B.A,a,B.cx,B.v,0)
+if(i>=1200){e=a6.r
+e=e==null?a:e.b1(B.e)}else{e=a6.y
+e=e==null?a:e.b1(B.e)}i=A.dc(A.b([m,A.nt(A.bn(a2,a,a,a,e,a,a),!1,!1,!1,!(i<600))],f),B.A,a,B.cx,B.v,0)
 m=$.be().d
 m===$&&A.a()
-if(m.a.a>=1200){m=a5.w
-m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a5.z
-m=m==null?a:m.b1(B.e)}else{m=a5.at
+if(m.a.a>=1200){m=a6.w
+m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a6.z
+m=m==null?a:m.b1(B.e)}else{m=a6.at
 m=m==null?a:m.b1(B.e)}k=A.h2(a,A.cq(A.b([i,A.bn("At Techblue Software, I played a pivotal role in architecting and scaling PropCo, an enterprise-grade repository system tailored for the real estate sector. Designed to accommodate the diverse and evolving needs of global property management clients, PropCo consists of several high-performing modules that deliver real-time data, seamless integration, and top-tier analytics. I was deeply involved in the end-to-end development of multiple modules\u2014ranging from interactive dashboards to core data and compliance components. By closely adhering to Clean Architecture principles and leveraging Bloc and Provider for efficient state management, I ensured every module maintained high scalability and testability.",a,a,a,m,a,a)],f),B.A,a,B.B,B.v,j),B.G,a,a,new A.ei(a,a,o,k,a,a,B.b9),a,a,a,a,B.fg,a,a,a)
 o=A.zX(B.dW,1)
 j=A.f2(12)
@@ -92902,24 +92902,24 @@ m=m.a.a>=1200
 i=m?28:16
 e=m?32:20
 d=A.xp("assets/logos/brainium.svg",a,32,a)
-if(m){m=a5.e
-m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a5.w
-m=m==null?a:m.c9(B.e,B.C)}else{m=a5.z
+if(m){m=a6.e
+m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a6.w
+m=m==null?a:m.c9(B.e,B.C)}else{m=a6.z
 m=m==null?a:m.c9(B.e,B.C)}m=A.bn("Brainium Information Technologies",a,a,a,m,a,a)
 c=$.be().d
 c===$&&A.a()
-m=A.dc(A.b([d,A.cq(A.b([m,A.nt(A.bn(a2,a,a,a,g?a:h.b1(B.e),a,a),!1,!1,!1,c.a.a<600)],f),B.ay,a,B.B,B.v,0)],f),B.A,a,B.B,B.v,e)
+m=A.dc(A.b([d,A.cq(A.b([m,A.nt(A.bn(a3,a,a,a,g?a:h.b1(B.e),a,a),!1,!1,!1,c.a.a<600)],f),B.ay,a,B.B,B.v,0)],f),B.A,a,B.B,B.v,e)
 e=$.be().d
 e===$&&A.a()
 e=e.a.a
-if(e>=1200){d=a5.r
-d=d==null?a:d.b1(B.e)}else{d=a5.y
-d=d==null?a:d.b1(B.e)}e=A.dc(A.b([m,A.nt(A.bn(a2,a,a,a,d,a,a),!1,!1,!1,!(e<600))],f),B.A,a,B.cx,B.v,0)
+if(e>=1200){d=a6.r
+d=d==null?a:d.b1(B.e)}else{d=a6.y
+d=d==null?a:d.b1(B.e)}e=A.dc(A.b([m,A.nt(A.bn(a3,a,a,a,d,a,a),!1,!1,!1,!(e<600))],f),B.A,a,B.cx,B.v,0)
 m=$.be().d
 m===$&&A.a()
-if(m.a.a>=1200){m=a5.w
-m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a5.z
-m=m==null?a:m.b1(B.e)}else{m=a5.at
+if(m.a.a>=1200){m=a6.w
+m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a6.z
+m=m==null?a:m.b1(B.e)}else{m=a6.at
 m=m==null?a:m.b1(B.e)}j=A.h2(a,A.cq(A.b([e,A.bn("During my tenure at Brainium Information Technologies, I spearheaded the design, development, and deployment of 8 cross-platform mobile applications, achieving a 100% on-time delivery success rate. These applications served a variety of business domains, from lifestyle to finance, with a major focus on user experience, real-time performance, and code quality. I led end-to-end development efforts for each project, often working as the primary point of contact with clients to gather feedback, resolve issues, and ensure alignment with their business goals. My work in this role not only improved client satisfaction\u2014maintaining a 95% approval rate\u2014but also resulted in user ratings averaging 4.8/5 across the board.",a,a,a,m,a,a)],f),B.A,a,B.B,B.v,i),B.G,a,a,new A.ei(a,a,o,j,a,a,B.b9),a,a,a,a,B.fg,a,a,a)
 o=A.zX(B.dW,1)
 i=A.f2(12)
@@ -92929,25 +92929,25 @@ m=m.a.a>=1200
 e=m?28:16
 d=m?32:20
 c=A.xp("assets/logos/zoom.svg",a,32,a)
-if(m){m=a5.e
-m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a5.w
-m=m==null?a:m.c9(B.e,B.C)}else{m=a5.z
+if(m){m=a6.e
+m=m==null?a:m.c9(B.e,B.C)}else if(A.dr()){m=a6.w
+m=m==null?a:m.c9(B.e,B.C)}else{m=a6.z
 m=m==null?a:m.c9(B.e,B.C)}m=A.bn("Zoom Enterprises",a,a,a,m,a,a)
 b=$.be().d
 b===$&&A.a()
-m=A.dc(A.b([c,A.cq(A.b([m,A.nt(A.bn(a3,a,a,a,g?a:h.b1(B.e),a,a),!1,!1,!1,b.a.a<600)],f),B.ay,a,B.B,B.v,0)],f),B.A,a,B.B,B.v,d)
+m=A.dc(A.b([c,A.cq(A.b([m,A.nt(A.bn(a4,a,a,a,g?a:h.b1(B.e),a,a),!1,!1,!1,b.a.a<600)],f),B.ay,a,B.B,B.v,0)],f),B.A,a,B.B,B.v,d)
 h=$.be().d
 h===$&&A.a()
 h=h.a.a
-if(h>=1200){g=a5.r
-g=g==null?a:g.b1(B.e)}else{g=a5.y
-g=g==null?a:g.b1(B.e)}h=A.dc(A.b([m,A.nt(A.bn(a3,a,a,a,g,a,a),!1,!1,!1,!(h<600))],f),B.A,a,B.cx,B.v,0)
+if(h>=1200){g=a6.r
+g=g==null?a:g.b1(B.e)}else{g=a6.y
+g=g==null?a:g.b1(B.e)}h=A.dc(A.b([m,A.nt(A.bn(a4,a,a,a,g,a,a),!1,!1,!1,!(h<600))],f),B.A,a,B.cx,B.v,0)
 m=$.be().d
 m===$&&A.a()
-if(m.a.a>=1200){m=a5.w
-m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a5.z
-m=m==null?a:m.b1(B.e)}else{m=a5.at
-m=m==null?a:m.b1(B.e)}return A.dc(A.b([A.jQ(A.h2(a,A.cq(A.b([r,A.cq(A.b([n,l,k,j,A.h2(a,A.cq(A.b([h,A.bn("At Zoom Enterprises, I worked extensively on the development and maintenance of multiple cross-platform mobile applications, gaining foundational expertise in scalable application architecture and platform-specific integrations. This role marked a crucial period in my growth as a developer, where I transitioned from executing development tasks to actively improving processes and contributing to architectural decisions.",a,a,a,m,a,a)],f),B.A,a,B.B,B.v,e),B.G,a,a,new A.ei(a,a,o,i,a,a,B.b9),a,a,a,a,B.fg,a,a,a)],f),B.A,a,B.B,B.v,32)],f),B.A,a,B.B,B.v,p),B.G,B.l,a,a,a,a,a,a,new A.aP(s,q,s,q),a,a,a),1)],f),B.A,a4,B.B,B.v,0)}}
+if(m.a.a>=1200){m=a6.w
+m=m==null?a:m.b1(B.e)}else if(A.dr()){m=a6.z
+m=m==null?a:m.b1(B.e)}else{m=a6.at
+m=m==null?a:m.b1(B.e)}return A.dc(A.b([A.jQ(A.h2(a,A.cq(A.b([r,A.cq(A.b([n,l,k,j,A.h2(a,A.cq(A.b([h,A.bn("At Zoom Enterprises, I worked extensively on the development and maintenance of multiple cross-platform mobile applications, gaining foundational expertise in scalable application architecture and platform-specific integrations. This role marked a crucial period in my growth as a developer, where I transitioned from executing development tasks to actively improving processes and contributing to architectural decisions.",a,a,a,m,a,a)],f),B.A,a,B.B,B.v,e),B.G,a,a,new A.ei(a,a,o,i,a,a,B.b9),a,a,a,a,B.fg,a,a,a)],f),B.A,a,B.B,B.v,32)],f),B.A,a,B.B,B.v,p),B.G,B.l,a,a,a,a,a,a,new A.aP(s,q,s,q),a,a,a),1)],f),B.A,a5,B.B,B.v,0)}}
 A.BS.prototype={
 az(){return new A.a_S()}}
 A.a_S.prototype={
