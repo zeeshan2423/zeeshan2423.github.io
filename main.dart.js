@@ -27477,7 +27477,7 @@ DX:function DX(){},
 a81:function a81(){},
 akJ:function akJ(a,b){this.a=a
 this.b=b},
-aXK(){var s,r,q,p,o=null,n=A.b(["Frontend","Mobile Application","Flutter","Cross Platform Application"],t.s),m=t.A,l=$.aH(),k=t.uh,j=J.afS(34,k)
+aXK(){var s,r,q,p,o=null,n=A.b(["Senior Frontend","Senior Mobile Application","Senior Flutter","Cross Platform Application"],t.s),m=t.A,l=$.aH(),k=t.uh,j=J.afS(34,k)
 for(s=0;s<34;++s)j[s]=new A.bZ(!1,l,k)
 r=J.afS(3,t.QX)
 for(q=0;q<3;++q)r[q]=new A.tJ(B.H7,l)
